@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ubaid Raza</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Web+Developer+%7C+Tech+Explorer;Frontend+%26+Backend+Learner" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://next-js-website-ubaid.netlify.app/components/project06" target="_blank">
@@ -8,6 +11,7 @@
   <a href="https://www.linkedin.com/in/muhammad-ubaid-raza-21b850300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=UBAIDRAZA1&label=Profile%20visits&color=0e75b6&style=for-the-badge" alt="profile visits" />
 </p>
 
 ---
@@ -42,9 +46,11 @@ Currently focused on building creative, fast, and responsive web apps using **mo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UBAIDRAZA1&show_icons=true&theme=radical&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UBAIDRAZA1&show_icons=true&theme=tokyonight&hide=prs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UBAIDRAZA1&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UBAIDRAZA1&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=UBAIDRAZA1&theme=react-dark" alt="activity graph" />
 </p>
 
 ---
