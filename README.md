@@ -53,7 +53,7 @@ Currently focused on building creative, fast, and responsive web apps using **mo
 
 - 🌐 **Portfolio**: [next-js-website-ubaid.netlify.app](https://next-js-website-ubaid.netlify.app/components/project06)  
 - 💼 **LinkedIn**: [Muhammad Ubaid Raza](https://www.linkedin.com/in/muhammad-ubaid-raza-21b850300)  
-- 📧 **Email**: *(add if you want, otherwise leave this blank)*
+- 📧 **Email**: *(ubaidraza3657767@gmail.com)*
 
 ---
 
