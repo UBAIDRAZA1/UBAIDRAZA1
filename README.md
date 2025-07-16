@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm an enthusiastic and self-motivated **Web Developer** with a passion for learning and exploring cutting-edge technologies.  
 Currently focused on building creative, fast, and responsive web apps using **modern JavaScript frameworks**.
